@@ -16,7 +16,9 @@ analyze the first solution
   * does it have overlappig subproblems?
 
 subproblems
+  * understanding the meaning of the subproblem faciliates adding a cache 
   * the exact subproblems to memoize must be codified
+  
 
 turn the solution around
   * once top down solution is reached, flip it
